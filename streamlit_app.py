@@ -3,7 +3,7 @@ import streamlit as st
 # --- Branding ---
 st.image("logo.png", width=250)
 st.markdown("### Science in Strength. Experts in Endurance.")
-st.title("🏃‍♂️ Treadmill Pace Equivalence Calculator")
+st.title("Treadmill Pace Equivalence Calculator for Inclines")
 
 st.markdown("""
 This calculator helps you determine what pace and speed you should run on a treadmill at different inclines, 
