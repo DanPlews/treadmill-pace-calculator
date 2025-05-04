@@ -2,12 +2,12 @@ import streamlit as st
 
 # --- Branding ---
 st.image("logo.png", width=250)
-st.markdown("### Built for real-world athletes. Backed by science.")
+st.markdown("### Scinece in Strength. Experts in Endurance.")
 st.title("🏃‍♂️ Treadmill Pace Equivalence Calculator")
 
 st.markdown("""
 This calculator helps you determine what pace and speed you should run on a treadmill at different inclines, 
-matching the same physiological effort. Toggle between metric and imperial units.
+matching the same physiological effort. The treadmill speed set is the intensity you are trying to replicate. Toggle between metric and imperial units.
 """)
 
 # --- Helper Functions ---
