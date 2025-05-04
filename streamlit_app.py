@@ -7,7 +7,7 @@ st.title("🏃‍♂️ Treadmill Pace Equivalence Calculator")
 
 st.markdown("""
 This calculator helps you determine what pace and speed you should run on a treadmill at different inclines, 
-matching the same physiological effort. The treadmill speed set is the intensity you are trying to replicate. Toggle between metric and imperial units.
+matching the same physiological effort. The reference inputs set refers to the intensity you are trying to replicate. Toggle between metric and imperial units.
 """)
 
 # --- Helper Functions ---
