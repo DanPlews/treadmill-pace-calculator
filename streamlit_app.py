@@ -2,7 +2,7 @@ import streamlit as st
 
 # --- Branding ---
 st.image("logo.png", width=250)
-st.markdown("### Scinece in Strength. Experts in Endurance.")
+st.markdown("### Science in Strength. Experts in Endurance.")
 st.title("🏃‍♂️ Treadmill Pace Equivalence Calculator")
 
 st.markdown("""
